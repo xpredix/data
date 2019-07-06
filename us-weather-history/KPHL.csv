@@ -1,4 +1,4 @@
-date,actual_mean_temp,actual_min_temp,actual_max_temp,average_min_temp,average_max_temp,record_min_temp,record_max_temp,record_min_temp_year,record_max_temp_year,actual_precipitation,average_precipitation,record_precipitation
+data,actual_mean_temp,actual_min_temp,actual_max_temp,average_min_temp,average_max_temp,record_min_temp,record_max_temp,record_min_temp_year,record_max_temp_year,actual_precipitation,average_precipitation,record_precipitation
 2014-7-1,83,72,93,68,86,52,102,1988,1901,0.00,0.13,1.04
 2014-7-2,86,75,96,68,86,52,103,1965,1901,0.21,0.13,1.73
 2014-7-3,83,74,92,68,87,54,104,1957,1966,0.09,0.12,3.66
